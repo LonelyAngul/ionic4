@@ -1,0 +1,11 @@
+{
+    "/api": {
+        "target": "http://mq.x2erp.com:8790",
+        "secure": false,
+        "logLevel": "debug",
+        "changeOrigin": true,
+        "pathRewrite": {
+            "^/api": ""
+        }
+    }
+}

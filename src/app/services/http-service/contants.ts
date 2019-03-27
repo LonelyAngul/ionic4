@@ -1,0 +1,1 @@
+export const WEB_SERVE_URL:string = 'http://mq.x2erp.com:8790';
